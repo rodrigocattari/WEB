@@ -1,0 +1,12 @@
+Text - lorem ipsum
+ Code script for IE -
+ <!-- [if IE]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+   <![endif]-->
+
+
+Text-ident - Idents the first line of the paragraph, can be a numerical value or %
+
+letter-spacing - can be normal or a numerical value
+
+Link style order - link / visited / hover / active
